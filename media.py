@@ -8,6 +8,6 @@ numTwo = float(input("Digite a segunda nota: "))
 media = (numOne + numTwo) / 2
 
 if media >= 5:
-    print(name, "Sua nota é", media, "você está aprovado")
+    print(name, "Sua nota é", media, "você está aprovado(a)")
 else:
-    print(name, "Sua nota é", media, "você está reprovado")
+    print(name, "Sua nota é", media, "você está reprovado(a)")
